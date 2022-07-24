@@ -7,6 +7,10 @@
   --secondary-text-color: #dcdcdc;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* scroll bar */
 
 ::-webkit-scrollbar {
